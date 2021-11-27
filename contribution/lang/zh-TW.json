@@ -76,7 +76,7 @@
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "您的個人電腦，雖然它有點過時，但它可以通過足夠的患者完成工作",
+ 	 	 	 	"trans": "您的個人電腦，雖然它有點過時，但耐心地等，它會完成工作",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
@@ -106,7 +106,7 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "具有必要工具的工作台允許您與設備進行修補。",
+ 	 	 	 	"trans": "具有必要工具的工作台，您可以修補設備。",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
@@ -116,11 +116,11 @@
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "李的交易帖子",
+ 	 	 	 	"trans": "李的交易站",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "一個家庭經營的交易商店，可讓您與他們在掃除時發現的東西交易",
+ 	 	 	 	"trans": "一個家庭經營的交易商店，可讓您與他們在搜索時發現的東西交易",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
@@ -399,7 +399,7 @@
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "您需要加入收益進入此區域",
+ 	 	 	 	"trans": "您需要加入幫派才能進入此區域",
  	 	 	 	"eng": "You need to join a gang to enter this area"
  	 	 	}
  	 	}
@@ -501,7 +501,7 @@
  	 	 	 	"eng": "Decrypt memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "解密內存分片，您發現檢索有用的英特爾",
+ 	 	 	 	"trans": "解密內存分片，您發現檢索有用的情報",
  	 	 	 	"eng": "Decrypt a memory shard to retrieve useful intel."
  	 	 	}
  	 	},
